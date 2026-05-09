@@ -1,6 +1,6 @@
 # Digital Memory Capsule
 
-A starter skeleton for a web app where users store messages and media that unlock on a future date.
+Digital Memory Capsule System is a secure web platform for storing messages, photos, and videos that remain locked until a future date. It includes planned support for countdown timers, AES-256 encryption, email reminders, and friend or family sharing.
 
 ## Stack
 
